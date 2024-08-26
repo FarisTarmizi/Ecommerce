@@ -1,0 +1,1 @@
+í¯¬f<?php exit; ?>a:1:{s:7:"content";a:5:{s:25:"bsf_custom_fonts_settings";b:1;s:6:"WPLANG";b:1;s:22:"as_has_wp_comment_logs";b:1;s:13:"hp_permalinks";b:1;s:9:"site_logo";b:1;}}
